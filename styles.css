@@ -1,5 +1,5 @@
 body {
-    background-color: cadetblue;
+    background-color: #ccffff;
 }
 
 * {
@@ -11,19 +11,21 @@ body {
 h1{
     text-decoration: underline;
     font-weight: bolder;
-    font-size: xx-large;
+    font-size: xxx-large;
     text-align: center;
 }
 
-.right{
+.half{
     width: 50%;
-    background-color: blanchedalmond;
+    height: 400px;
 }
 
 p{
+    font-size: x-large;
     text-align: center;
 }
 
 li{
     list-style-position: inside;
+    margin-bottom: 40px;
 }
