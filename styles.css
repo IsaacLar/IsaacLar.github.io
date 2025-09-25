@@ -41,3 +41,10 @@ li{
     list-style-position: inside;
     margin-bottom: 40px;
 }
+
+footer{
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -10px;
+    background-color: black;
+}
